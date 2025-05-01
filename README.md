@@ -9,6 +9,7 @@ Object attributes:
 - drawable
 - coordinates > x, y
 - ease > enabled (false), x, y, speed (0.25)
+<br>
 To append a camera to your game, use `victor.cameras:append(name,x (0),y (0),enabled (false))`
 Camera attributes:
 - enabled
